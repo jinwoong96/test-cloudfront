@@ -23,6 +23,7 @@ function App() {
 
   return (
     <div style={{ padding: "40px", fontFamily: "sans-serif" }}>
+      <h1>자동 배포 업데이트 확인</h1>
       <h1>AI 이미지 분류</h1>
 
       <input
